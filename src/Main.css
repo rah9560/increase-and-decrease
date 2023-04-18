@@ -1,0 +1,23 @@
+.btn-container{
+    display: flex;
+    height: 30vh;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px;
+    
+}
+.text-container{
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    height: 50vh;
+}
+button{
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+}
+.text{
+    font-size: xx-large;
+}
